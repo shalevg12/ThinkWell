@@ -39,9 +39,9 @@ We are committed to continuously improving ThinkWell and making it an even more 
 # Support
 
 Our team included 4 peoples. together we create this project for College.
-Shalev Gabay
-Harel Elihu
-Shahar Edry
+Shalev Gabay,
+Harel Elihu,
+Shahar Edry,
 Matan Amar
 
 
