@@ -36,12 +36,27 @@ ThinkWell incorporates three card types that facilitate learning and skill devel
 
 We are committed to continuously improving ThinkWell and making it an even more impactful resource for children with autism. As part of our future plans, we aim to conduct research and gather feedback from users and experts in the field of autism to enhance the game's effectiveness and user experience.
 
-# Support
 
-Our team included 4 peoples. together we create this project for College.
-Shalev Gabay,
-Harel Elihu,
-Shahar Edry,
-Matan Amar
 
+## Credits
+
+This project was made possible with the contributions and efforts of the following individuals:
+
+- Mr. __Shalev Gabay__
+- Mr. __Harel Elihu__
+- Mrs. __Shahar Edry Elihu__
+- Mr. __Matan Amar__
+
+A special thanks goes to Mrs. __Hadas Hassidim__ for her guidance and support throughout the project. Her expertise and assistance helped us make this project a professional success.
+
+We deeply appreciate the dedication and teamwork of everyone involved in bringing **Schovid** to life.
+
+
+## Contact
+
+For any inquiries, feedback, or collaboration opportunities related to **Schovid**, feel free to get in touch with us:
+
+- Email: [Shalevgabay60@gmail.com](mailto:Shalevgabay60@gmail.com)
+
+We're excited to hear from you and look forward to your messages!
 
